@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "jevuska",
-    "repositoryName": "jevuska.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"jevuska","repositoryName":"jevuska.github.io","branch":"master"},"site":{"title":"JEVUSKA","description":"Jev on HubPess","url":"https://jevuska.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//jevuska.github.io/themes/Casper"}}
